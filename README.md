@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Miguel Naldi
 
-- 🔭 Estou trabalhando em um Jogo Educacional para Universidades 
+- 🔭 No momento estou trabalhando em um Jogo Educacional para Universidades 
 - 🌱 Estudando Front-End e UI/UX
 
 
