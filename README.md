@@ -1,7 +1,5 @@
-### Olá! Eu sou o Miguel Naldi
+### Hello world. Meu nome é Miguel Naldi
 - 📩 Contact me: miguelnaldidias@gmail.com
-- 🔭 No momento estou trabalhando em um Jogo Educacional para Universidades 
-- 🌱 Estudando Front-End e UI/UX
 
 
 <div>
